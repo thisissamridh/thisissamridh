@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=thisissamridh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on Mediflow and AppWrite octernship<br>👯 I’m looking to collaborate on Onyx.fi<br>🤝 I’m looking for help with crypto analysis tools<br>🌱 I’m currently learning Rust and typescript<br>💬 Ask me about Blockchain , DeFi and startups<br>⚡ Fun fact 
+🔭 I’m currently working on Mediflow and AppWrite octernship<br>👯 I’m looking to collaborate on Onyx.fi<br>🤝 I’m looking for help with crypto analysis tools<br>🌱 I’m currently learning Rust and typescript<br>💬 Ask me about Blockchain , DeFi and startups<br>⚡ Reach me at samridhsinghind@gmail.com
 
 
 ## 🌐 Socials:
@@ -28,8 +28,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-
-
-
-
