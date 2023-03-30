@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Mediflow and AppWrite octernship sponsored by Github<br>👯 I’m looking to collaborate on Onyx.fi<br>🤝 I’m looking for help with crypto analysis tools and alpaca models finetuning<br>🌱 I’m currently learning Rust and Typescript<br>💬 Ask me about Blockchain , DeFi and startups<br>⚡ Reach me at samridhsinghind@gmail.com
+🔭 I’m currently working on Mediflow and AppWrite octernship <br>👯 I’m looking to collaborate on Onyx.fi<br>🤝 I’m looking for help with crypto analysis tools and alpaca models finetuning<br>🌱 I’m currently learning Rust and Typescript<br>💬 Ask me about Blockchain , DeFi and startups<br>⚡ Reach me at samridhsinghind@gmail.com
 
 ## 🌐 Socials:
 
